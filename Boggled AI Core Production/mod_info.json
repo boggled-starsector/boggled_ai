@@ -1,0 +1,10 @@
+{
+	"id":"Boggled AI Core Production",
+	"name":"AI Core Production",
+	"version":"0.9",
+	"author": "boggled",
+	"description":"Build supercomputers with Domain-era components to produce your own AI cores.",
+	"gameVersion":"0.9.1a",
+	"jars":["jar/BoggledAICoreProduction.jar"],
+	"modPlugin":"data.scripts.BoggledAICoreProduction",
+}
